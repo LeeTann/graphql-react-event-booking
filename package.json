@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeTann/graphql-react-event-booking.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeeTann/graphql-react-event-booking/issues"
+  },
+  "homepage": "https://github.com/LeeTann/graphql-react-event-booking#readme"
 }
